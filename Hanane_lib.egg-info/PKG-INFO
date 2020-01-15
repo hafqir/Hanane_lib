@@ -1,0 +1,32 @@
+Metadata-Version: 1.1
+Name: Hanane-lib
+Version: 0.0.1
+Summary: Proclame la bonne parole
+Home-page: https://github.com/hafqir/Hanane_lib
+Author: Hanane, Anil et Hamza
+Author-email: afqir.hanane@hotmail.com
+License: WTFPL
+Description: Hanane Lib - Proclame la bonne parole
+        =====================================
+        Vive A2H
+        
+        
+        Vous pouvez l'installer avec pip:
+        
+            pip install Hanane_lib
+        
+        Exemple d'usage:
+        
+            >>> from Hanane_lib import proclamer
+            >>> proclamer()
+        
+        Ce code est sous licence WTFPL.
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Development Status :: 1 - Planning
+Classifier: License :: OSI Approved
+Classifier: Natural Language :: French
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Topic :: Communications

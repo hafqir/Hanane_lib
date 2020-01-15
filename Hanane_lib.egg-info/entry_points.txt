@@ -1,0 +1,3 @@
+[console_scripts]
+proclame-sm = Hanane_lib.core:proclamer
+
